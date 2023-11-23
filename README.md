@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, Numpy, Pandas
 
 ## Education     		
-- M.Sc., Artificial Intelligence | University of Essex -  Colchester, Essex, UK (_January 2023_)	 			        		
+- M.Sc. Artificial Intelligence | University of Essex -  Colchester, Essex, UK (_January 2023_)	 			        		
 - B.E., Software Engineering | NED University of Engineering and Technology - Karachi, Pakistan (_August 2021_)
 
 ## Work Experience
