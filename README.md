@@ -7,13 +7,13 @@
 - B.E., Software Engineering | NED University of Engineering and Technology - Karachi, Pakistan (_August 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Software Engineer - Mazik Global (QUISITIVE) (August 2021 – November 2021)**
+• Collaborated across diverse teams on the MS PowerApps platform, utilizing JavaScript, SQL, and PowerApps to automate financial operations. Achieved a remarkable 50% reduction in process time.
+• Played an integral role in FinOps data validation implementation, centralization, cleaning, and validation using PowerBI and SQL. Significantly improved data management and visualization
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Engineering Apprentice - Siemens Pakistan (December 2019 – June 2020)**
+• Engaged with a team to develop a Web app for streamlined SAP data access, eradicating queue time and boosting efficiency by a notable 100%.
+• Crafted a Web app-based costing tool using JavaScript, elevating the financial department's efficiency by a substantial 50%.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
