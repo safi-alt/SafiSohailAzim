@@ -8,10 +8,12 @@
 
 ## Work Experience
 **Software Engineer - Mazik Global (QUISITIVE) (August 2021 – November 2021)**
+
 • Collaborated across diverse teams on the MS PowerApps platform, utilizing JavaScript, SQL, and PowerApps to automate financial operations. Achieved a remarkable 50% reduction in process time.
 • Played an integral role in FinOps data validation implementation, centralization, cleaning, and validation using PowerBI and SQL. Significantly improved data management and visualization
 
 **Software Engineering Apprentice - Siemens Pakistan (December 2019 – June 2020)**
+
 • Engaged with a team to develop a Web app for streamlined SAP data access, eradicating queue time and boosting efficiency by a notable 100%.
 • Crafted a Web app-based costing tool using JavaScript, elevating the financial department's efficiency by a substantial 50%.
 
